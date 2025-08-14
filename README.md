@@ -1,3 +1,6 @@
+# Access to Google Colab :- https://colab.research.google.com/drive/14BEXI9WtLUA6snohK5Mx17K1ugjEuK3g?usp=sharing
+
+
 # AI News Reporter & Analyst
 
 This project is an interactive web application that uses a locally-run, 20-billion-parameter open-source Large Language Model (gpt-oss:20b) to analyze news articles. The application takes any news article as input and automatically generates a headline, a concise summary, and a list of key entities (people, organizations, and locations).
